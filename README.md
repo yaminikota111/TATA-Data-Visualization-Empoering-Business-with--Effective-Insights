@@ -38,15 +38,23 @@ Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
 # Questions the CEO:
 •	What have been the main factors influencing the company's overall revenue and profit margin over the past year?
+
 •	How do our sales and profits stack up against those of our industry rivals, and what tactics can we use to perform better?
+
 •	How can we use the demographic makeup of our clientele to target our marketing and growth initiatives more effectively?
+
 •	What potential risks and difficulties could our planned expansion bring about, and how can we reduce these risks?
+
 
 # Questions the CMO:
 •	What marketing initiatives and channels have been the most successful in boosting our sales, and how might we improve our marketing approach?
+
 •	How much does it cost to acquire a customer through each marketing channel, and how does this affect our overall marketing budget and return on investment?
+
 •	How do our customer satisfaction and loyalty rates stack up against industry averages, and what actions can we take to raise these figures?
+
 •	How can we personalize our marketing campaigns and increase customer engagement by using customer data and behavior?
+
 
 
 # Task 2 - Choosing the Right Visuals
