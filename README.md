@@ -8,7 +8,7 @@ The program attempts to simulate the difficulties an individual might encounter 
 3. Creating Effective Visuals
 4. Communicating Insights and Analysis
 
-#Task 1 - Framing the Business Scenario
+# Task 1 - Framing the Business Scenario
 
 Learn how to anticipate the questions your business leaders will need answers to.
 
@@ -36,7 +36,7 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
-#Task 2 - Choosing the Right Visuals
+# Task 2 - Choosing the Right Visuals
 Learn which visuals are most effective in a given scenario
 
 Background info and context
@@ -53,7 +53,7 @@ You will be provided resources on how to select visuals based on the different s
 
 To complete this task, answer the multiple-choice quiz. Start the quiz by clicking 'Click here to start the task' in section 5 below. Please note there are 5 multiple choice questions to complete in this task. Please be patient as each question loads.
 
-#Task 3 - Creating Effective Visuals
+# Task 3 - Creating Effective Visuals
 Apply your under and create visuals based on business scenarios
 
 Background info and context
@@ -96,7 +96,7 @@ Question 4
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
 
-#Task 4 - Communicating Insights and Analysis
+# Task 4 - Communicating Insights and Analysis
 Effectively communicate your findings and explain how it relates to each scenario
 
 Background info and context
