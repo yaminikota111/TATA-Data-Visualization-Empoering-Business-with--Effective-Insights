@@ -36,6 +36,19 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
+Questions the CEO:
+•	What have been the main factors influencing the company's overall revenue and profit margin over the past year?
+•	How do our sales and profits stack up against those of our industry rivals, and what tactics can we use to perform better?
+•	How can we use the demographic makeup of our clientele to target our marketing and growth initiatives more effectively?
+•	What potential risks and difficulties could our planned expansion bring about, and how can we reduce these risks?
+
+Questions the CMO:
+•	What marketing initiatives and channels have been the most successful in boosting our sales, and how might we improve our marketing approach?
+•	How much does it cost to acquire a customer through each marketing channel, and how does this affect our overall marketing budget and return on investment?
+•	How do our customer satisfaction and loyalty rates stack up against industry averages, and what actions can we take to raise these figures?
+•	How can we personalize our marketing campaigns and increase customer engagement by using customer data and behavior?
+
+
 # Task 2 - Choosing the Right Visuals
 Learn which visuals are most effective in a given scenario
 
@@ -84,17 +97,26 @@ Question 1
 
 The CEO of the retail store is interested to view the time series of the revenue data for the year 2011 only. He would like to view granular data by looking into revenue for each month. The CEO is interested in viewing the seasonal trends and wants to dig deeper into why these trends occur. This analysis will be helpful for the CEO to forecast for the next year.
 
+![image](https://user-images.githubusercontent.com/54625974/232899238-ca916b5d-cd5c-4a58-a181-30c0d0f88e43.png)
+
+
 Question 2
 
 The CMO is interested in viewing the top 10 countries which are generating the highest revenue. Additionally, the CMO is also interested in viewing the quantity sold along with the revenue generated. The CMO does not want to have the United Kingdom in this visual.
+
+![image](https://user-images.githubusercontent.com/54625974/232899305-fdb4d830-2c84-4d15-8401-36861fe95ada.png)
 
 Question 3
 
 The CMO of the online retail store wants to view the information on the top 10 customers by revenue. He is interested in a visual that shows the greatest revenue generating customer at the start and gradually declines to the lower revenue generating customers. The CMO wants to target the higher revenue generating customers and ensure that they remain satisfied with their products.
 
+![image](https://user-images.githubusercontent.com/54625974/232899369-d359a56c-111d-4eab-a8cd-be0e25cf07f3.png)
+
 Question 4
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+
+![image](https://user-images.githubusercontent.com/54625974/232899440-11736fb7-94b5-47ce-bb4e-ba1b5d454026.png)
 
 # Task 4 - Communicating Insights and Analysis
 Effectively communicate your findings and explain how it relates to each scenario
@@ -116,3 +138,13 @@ When writing your script, you should speak about your entire process, including 
 Your video should be approximately 5 minutes in length. You can record your video in the browser or upload a video from your device below.
 
 Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning.
+
+Yamini here, and I'm eager to give you some information about your business. I appreciate you asking me the questions that are leading. It was helpful to see the kinds of insights you would anticipate from the data. I have every confidence that as you choose how to approach your upcoming business prospects, you will find the analysis to be persuasive and helpful. To begin with, let me reassure you that I have provided the most accurate and up-to-date analysis. After entering the data into my software, I removed any records with negative quantities and unit prices because doing so was necessary to provide useful analysis.
+Insights from task1:
+CEO has requested a revenue trend to determine whether retail sales are seasonal in response to your first question. The data show that there are several months throughout the year that experience significant growth. Statistics show that the first eight months of sales, from January to August, were extremely stable, with monthly revenue averaging $685K (six hundred eighty-five thousand US dollars). Beginning in September, when it increases by 40% over the previous month, revenue starts to rise. Up until November, when it increased to 1.5 million US dollars, the highest sum of the entire year, this pattern persisted. Unfortunately, no conclusions can be drawn from the data for December because there is not enough of it. 
+Insights from task2:
+The second graph shows the top ten countries in terms of growth potential. The UK is not included in these statistics because it already has a high demand and I understand that you are more interested in countries where demand might increase. The data show that countries like the Netherlands, Ireland, Germany, and France have quite high income and unit sales. I would suggest focusing on these countries to ensure that actions are taken to further capture these markets.
+Insights from task3:
+The third study focused on the top 10 customers who have purchased the most products from the company. The statistics show that the top 10 consumer purchases don't differ all that much. The company does not rely solely on a small number of customers to generate revenue, as evidenced by the fact that the highest revenue-producing customer only spent 17% more than the second highest. This shows that consumers' negotiating power is constrained and that business conditions are favorable.
+Insights from task4:
+The map chart compares the locations that have generated the most income to those that have not. In addition to the UK, it is evident that countries like the Netherlands, Ireland, Germany, France, and Australia produce significant profits; therefore, the company should invest more in these countries to increase the demand for its products. The map also shows that only a small portion of sales take place in the American region, with the majority taking place in the European zone. Africa and Asia do not have markets for the products, along with Russia. With the implementation of a new strategy targeted at these areas, sales revenues and profitability may rise.
