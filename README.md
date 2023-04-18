@@ -36,13 +36,13 @@ Create a set of four questions that you anticipate each business leader will ask
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
 
-Questions the CEO:
+# Questions the CEO:
 •	What have been the main factors influencing the company's overall revenue and profit margin over the past year?
 •	How do our sales and profits stack up against those of our industry rivals, and what tactics can we use to perform better?
 •	How can we use the demographic makeup of our clientele to target our marketing and growth initiatives more effectively?
 •	What potential risks and difficulties could our planned expansion bring about, and how can we reduce these risks?
 
-Questions the CMO:
+# Questions the CMO:
 •	What marketing initiatives and channels have been the most successful in boosting our sales, and how might we improve our marketing approach?
 •	How much does it cost to acquire a customer through each marketing channel, and how does this affect our overall marketing budget and return on investment?
 •	How do our customer satisfaction and loyalty rates stack up against industry averages, and what actions can we take to raise these figures?
@@ -139,6 +139,7 @@ Your video should be approximately 5 minutes in length. You can record your vide
 
 Remember, this is not just a read out of your visuals, you’re presenting to the CEO and CMO and need to provide context for each scenario and how it relates to their questioning.
 
+# Response
 Yamini here, and I'm eager to give you some information about your business. I appreciate you asking me the questions that are leading. It was helpful to see the kinds of insights you would anticipate from the data. I have every confidence that as you choose how to approach your upcoming business prospects, you will find the analysis to be persuasive and helpful. To begin with, let me reassure you that I have provided the most accurate and up-to-date analysis. After entering the data into my software, I removed any records with negative quantities and unit prices because doing so was necessary to provide useful analysis.
 Insights from task1:
 CEO has requested a revenue trend to determine whether retail sales are seasonal in response to your first question. The data show that there are several months throughout the year that experience significant growth. Statistics show that the first eight months of sales, from January to August, were extremely stable, with monthly revenue averaging $685K (six hundred eighty-five thousand US dollars). Beginning in September, when it increases by 40% over the previous month, revenue starts to rise. Up until November, when it increased to 1.5 million US dollars, the highest sum of the entire year, this pattern persisted. Unfortunately, no conclusions can be drawn from the data for December because there is not enough of it. 
